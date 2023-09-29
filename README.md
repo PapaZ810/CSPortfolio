@@ -10,3 +10,14 @@ Minijava was a project in the compilers class at WU that had the students design
 
 A picture of the code required to cast integers to doubles and vice versa as well as from numbers to Strings. The full extent of the code is linked in the section header.
 
+## [JPEG Image Compression Script](https://github.com/PapaZ810/ImageCompression)
+
+This project started off as a final project for the Linear Algebra class at WU but evolved over the past couple of years to be much more streamlined in code style. Most of the work that I put into it was to make it faster, as it originally took over a minute to compress a 3.5MB file down to 800KB. I didn't have time to make it much faster and considered the task of multithreading the script to be quite daunting at the time, but after I presented my work to the class I gained a renewed energy to work on it that unfortunately didn't get very far. After that, I left it for over a year while I focused on other classwork, and in the Fall of 2023 I came back to it, with more experience and ideas for how to complete this. The first step was to see if there was any way to make my code any cleaner. In the first version there were a lot of nested for loops and I was curious if there were any ways to manipulate the arrays in place. And, of course, there were! Using these optimizations I was able to significantly improve the quality of the code, going from someone who only knew Java to a proper programmer. My main idea for making the program faster was to multithread it, using multiple different cores on the device to speed up the lengthy operations I was doing on the images. But after a lot of work on converting the script to use four threads, the script was slower to complete on the same image. I then made two more branches that used two and eight threads but they were still slower. I made a massive breakthrough when I learned about vectorized array operations, turning one of the last nested for loop functions into just two lines. Not only did this improve the look of the code, but it made the script run much faster, going from over a minute to compress that previously mentioned 3.5MB file to just 6 seconds. I still have some bugs to iron out, most notably that the Fourier conversion doesn't really work and it's the main part of the compression. 
+
+![A picture showing the difference between the non-compressed picture and the compressed picture.](/Windows.png)
+
+![Another picture showing the difference between the non-compressed picture and the compressed picture.](/House.png)
+
+Here are a couple of examples of the results of the script. Full code and all branches linked in the section header.
+
+## [Lab 7 from Algorithms](https://github.com/PapaZ810/lab7)
