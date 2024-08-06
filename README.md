@@ -23,7 +23,7 @@ Here are a couple of examples of the results of the script. Full code and all br
 ## [ZenSpelling](https://github.com/westmini-software-engineering-2024sp/ZenSpelling)
 
 
-## [SLC Chapter Japanese American Citizen's League Client Website](https://github.com/cmpt375-2024spring/client-project-jacl)
+## [SLC Chapter of the Japanese American Citizen's League Client Website](https://github.com/cmpt375-2024spring/client-project-jacl)
 
 
 ## [Chatroom](https://github.com/PapaZ810/Chatroom)
