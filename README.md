@@ -20,4 +20,10 @@ This project started off as a final project for the Linear Algebra class at WU b
 
 Here are a couple of examples of the results of the script. Full code and all branches linked in the section header.
 
-## [Lab 7 from Algorithms](https://github.com/PapaZ810/lab7)
+## [ZenSpelling](https://github.com/westmini-software-engineering-2024sp/ZenSpelling)
+
+
+## [SLC Chapter Japanese American Citizen's League Client Website](https://github.com/cmpt375-2024spring/client-project-jacl)
+
+
+## [Chatroom](https://github.com/PapaZ810/Chatroom)
