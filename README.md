@@ -22,7 +22,7 @@ Here are a couple of examples of the results of the script. Full code and all br
 
 ## [ZenSpelling](https://github.com/westmini-software-engineering-2024sp/ZenSpelling)
 
-  ZenSpelling was a project myself and a few of my classmates completed as part of our class work in Software Engineering CMPT 322. It's a web-based spelling game for 1st-5th grade students to improve their spelling skills by building a garden. The game was built in Django using JQuery to transfer data to the frontend and p5.js to draw the canvas that holds the tiles on the game board. Students can track their progress in the game throught the profile screen and they can earn medals through exceptional gameplay. The game tracks the amount of time you played the game, how many questions you answer incorrectly and how many questions you answer correctly in a row and shows you all of those datapoints when you complete a game. It will also give the student medals based on those metrics after the game completes. It also saves the metrics to the database to be viewed by the student on the profile page and by the Teacher through the admin panel. I mainly worked on the database side of the game, but working in a team for this project got me to learn a lot about the AGILE process and about how effective communication can greatly improve productivity. 
+  ZenSpelling was a project myself and a few classmates completed as part of our class work in Software Engineering CMPT 322. It's a web-based spelling game for 1st-5th grade students to improve their spelling skills by building a garden. The game was built in Django using JQuery to transfer data to the frontend and p5.js to draw the canvas that holds the tiles on the game board. Students can track their progress in the game throught the profile screen and they can earn medals through exceptional gameplay. The game tracks the amount of time you played the game, how many questions you answer incorrectly and how many questions you answer correctly in a row and shows you all of those datapoints when you complete a game. It will also give the student medals based on those metrics after the game completes. It also saves the metrics to the database to be viewed by the student on the profile page and by the Teacher through the admin panel. I mainly worked on the database side of the game, but working in a team for this project got me to learn a lot about the AGILE process and about how effective communication can greatly improve productivity. 
 
 ---
 
@@ -42,7 +42,12 @@ Here are some pictures from the game!
 
 ![The game page](/ZenSpellingGamePage.jpg)
 
+### This is the game page where all the gameplay happens. Tiles are dragged from the left side of the screen onto the board and a question pops down from the top of the screen. Once the question is answered, a sound plays and according to whether or not the student got the question right. If they answer incorrectly, the tile that the student placed will change into a weed. The weed can be removed by clicking on it. This will pop up with another question and if that question is answered correctly, the weed will disapear. Once the allotted questions have been answered, the student is taken to the complete screen. The complete screen shows the metrics for the game that the student completed and any medals they earned.
+
 ## [SLC Chapter of the Japanese American Citizen's League Client Website](https://github.com/cmpt375-2024spring/client-project-jacl)
 
 
+
 ## [Chatroom](https://github.com/PapaZ810/Chatroom)
+
+Chatroom was a project from Greg's Network class in Fall of 2023. Chatroom was the final project in the class in which we as a class decided on a network protocol to implement a chatroom server and client. 
