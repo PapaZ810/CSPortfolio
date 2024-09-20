@@ -46,7 +46,7 @@ Here are some pictures from the game!
 
 ## [SLC Chapter of the Japanese American Citizen's League Client Website](https://github.com/cmpt375-2024spring/client-project-jacl)
 
-
+This was a project in the Web Development course at Westminster University. The class was about computer science sudents working with designers from the Communications class that was paired with ours. 
 
 ## [Chatroom](https://github.com/PapaZ810/Chatroom)
 
