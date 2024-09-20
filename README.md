@@ -46,7 +46,20 @@ Here are some pictures from the game!
 
 ## [SLC Chapter of the Japanese American Citizen's League Client Website](https://github.com/cmpt375-2024spring/client-project-jacl)
 
-This was a project in the Web Development course at Westminster University. The class was about computer science sudents working with designers from the Communications class that was paired with ours. 
+This was a project in the Web Development course at Westminster University. The class was about computer science sudents working with designers from the Communications class that was paired with ours. Over the course of 4 months we as developers learned the software we were going to be using and made a website for a real client. We had meetings with the client so that we could make the best website that we could for them. As developers we had to make decisions on what we could and could not do with the time we had in the class. It was overall an amazing experience working with people and getting a taste of what working in industry may be like in the future. 
+
+Our specific project was working with the President of the SLC chapter of the Japanese American Citizen's League(JACL) to create a website for their online presence. At the point that we started working with them, they only had a facebook page. Our first step was to determine what the president wanted for the website. The president wanted most of the website to be editable by herself or a social media person without having to take the website down. This necesitated a large change from just sticking text into an HTML page. We had to make database entries for each page on the website that were editable through Django's admin panel. Our team worked great together on the things we were best at and I even made one of the pages myself. At that time, I really wasn't the most experienced with CSS, so creating something that worked well with differing screen sizes was a bit of a challenge. 
+
+---
+
+![The Join page of the website](/joinjacl.jpg)
+
+### This was the page I worked on. The circles are absolutely positioned and snap to the center when the screen size of the device the website is displayed on is too small. 
+
+
+![The footer of the Join page](/joinfooter.jpg)
+
+### Here is the bottom of the join page that contains a link to the official application form.
 
 ## [Chatroom](https://github.com/PapaZ810/Chatroom)
 
