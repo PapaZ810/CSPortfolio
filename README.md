@@ -67,7 +67,9 @@ Some of the other pages on the website include the home page which has a carouse
 
 ![This is the homepage](/homepage.jpg)
 
-![This is the events page with a calendar](/events.jpg)
+![This is the upcoming events on the events page](/events.jpg)
+
+![This is the calendar of the events page](/calendar.jpg)
 
 ![This is the statements page](/statements.jpg)
 
