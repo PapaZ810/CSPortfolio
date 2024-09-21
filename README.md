@@ -61,6 +61,18 @@ Our specific project was working with the President of the SLC chapter of the Ja
 
 ### Here is the bottom of the join page that contains a link to the official application form.
 
+Some of the other pages on the website include the home page which has a carousel of images from JACL SLC's recent events, a calendar page with most recent events at the top of the page, a statements page with editable statements and a mission and vision page which has the SLC Chapter's mission and vision.
+
+---
+
+![This is the homepage](/homepage.jpg)
+
+![This is the events page with a calendar](/events.jpg)
+
+![This is the statements page](/statements.jpg)
+
+![This is the mission and vision page](/missionandvision.jpg)
+
 ## [Chatroom](https://github.com/PapaZ810/Chatroom)
 
 Chatroom was a project from Greg's Network class in Fall of 2023. Chatroom was the final project in the class in which we as a class decided on a network protocol to implement a chatroom server and client. 
